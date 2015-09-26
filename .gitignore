@@ -1,0 +1,5 @@
+.idea/
+*.yml
+*.json
+*.dat
+!plugin.yml

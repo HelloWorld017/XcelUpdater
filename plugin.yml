@@ -1,0 +1,19 @@
+#	\-\     /-/  .          .              . |--|
+#	 \ \   / /   .   /----| .    / /--\ \  . |  |
+#	  \ \ / /    .  /  ---| .   / /----\ \ . |  |
+#	   \   /     . /  /     .   | |------| . |  |
+#	   /   \     . \  \     .   | |        . |  |
+#	  / / \ \    .  \  ---| .   \ \-----|  . |  |
+#	 / /   \ \   .   \----| .    \------|  . |  |
+#	/-/     \-\  .          .              . |--|
+#	          Welcome to Xceled Ngine
+#                   by Khinenw
+#        "Convenient, Stable, yet Extendable"
+#            "This project applies GPLv3"
+
+name: "XcelUpdater"
+author: Khinenw
+version: "erita [1.0]"
+description: "A xceled Updater"
+main: Khinenw\XcelUpdater\XcelUpdater
+api: 1.12.0
